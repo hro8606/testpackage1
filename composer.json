@@ -1,0 +1,13 @@
+{
+    "name": "hrtest1/timezonestest",
+    "description": "test package to show tome zone \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[i",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Hrayr Buduryan",
+            "email": "hbuduryan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

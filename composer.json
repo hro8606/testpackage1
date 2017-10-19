@@ -8,6 +8,11 @@
             "email": "hbuduryan@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Hrtest1\\Timezonestest\\": "src/"
+        }
+    },
     "minimum-stability": "dev",
     "require": {
         "php": "^5.3.3 || ^7.0",
